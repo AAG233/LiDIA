@@ -39,6 +39,6 @@ g++ -o PrimeNumbers PrimeNumbers.cpp -lLiDIA -lgmp -lm
 
 $ ./PrimeNumbers
 
-Please enter a: 1000
+Please enter a number: 1000
 
 The next prime number is: 1009
