@@ -5,6 +5,7 @@ LiDIA was developed from 1994 to 2004 at TU Darmstadt. It is not under active de
 The authoritative repository for LiDIA used to reside at:
 	http://www.informatik.tu-darmstadt.de/TI/LiDIA/ftp/LiDIA/
 
+Prerequisites: GMP / The GNU Multiple Precision Arithmetic Library. Download: https://github.com/AAG233/GMP
 
 The lidia library can now be downloaded at:
 
