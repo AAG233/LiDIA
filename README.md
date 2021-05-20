@@ -11,7 +11,7 @@ The lidia library can now be downloaded at:
 
 	https://www.dropbox.com/s/uzqrhasz6beu6io/lidia-2.3.0.tar?dl=0
 
-After downloading the LíDIA library, it is necessary to compile and install the binaries as follows:
+After downloading the LiDIA library, it is necessary to compile and install the binaries as follows:
 
 #tar -xvf lidia-2.3.0.tar
 
