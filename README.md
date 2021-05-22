@@ -9,7 +9,7 @@ Prerequisites: GMP / The GNU Multiple Precision Arithmetic Library. Download: ht
 
 The lidia library can now be downloaded at:
 
-	https://www.dropbox.com/sh/e60dz2gmmju71t8/AACtmwb1p01kGqte5MNOTpy_a?dl=0
+	https://www.dropbox.com/s/hvgmur7qufmoor1/lidia-2.3.0.tar?dl=0
 
 After downloading the LiDIA library, it is necessary to compile and install the binaries as follows:
 
